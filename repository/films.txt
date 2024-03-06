@@ -1,0 +1,20 @@
+1
+Spiderman
+action
+AP
+2
+Annabelle
+horror
+N15
+3
+Pulp Fiction
+drama
+N12
+4
+The Notebook
+love story
+AP
+5
+Spiderman
+thriller
+N15
